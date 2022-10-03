@@ -4,6 +4,6 @@
 
 3.I have configured the relevant programs and environments, but I am lacking in programming practice.
 
-4.I don't have a deep understanding of the completion process of C programming and don't know a lot of extended knowledge.
+4.I don't have a deep understanding of the completion process of C programming and don't know a lot of extended knowledge. 
 
 5.Complete corresponding and legacy tasks and expand the depth of learning as much as possible.
