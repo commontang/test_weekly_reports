@@ -5,6 +5,7 @@ int main()
     printf("hello,here is a progam with errors!~\n");
     
     /*
+      This is a try
       A sample multi-line comment sample
       what error happened here
     */
