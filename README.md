@@ -41,6 +41,7 @@ ______
 5.I will take the assessment seriously.
 
 In the course of this study, I have some feelings.
+______
 6.Knowing what you want to learn, how to learn, and where to learn is more important than 
   the process of learning itself.This feeling is especially strong when I start learning something else after learning the basics of the C 
   language.linux,gcc,gnu make,git hub…I spend no less time in knowing what they are and where they can be learned, looking for learning 
